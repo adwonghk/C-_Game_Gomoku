@@ -6,6 +6,6 @@ This game is the result of me watching https://www.youtube.com/watch?v=kL1KG-bit
 
 <image src="https://github.com/adwonghk/CSharpe_Game_Gomoku/blob/master/i1.png" width="600">
   
- <image src="https://github.com/adwonghk/CSharpe_Game_Gomoku/blob/master/i1.png" width="600">
+ <image src="https://github.com/adwonghk/CSharpe_Game_Gomoku/blob/master/i2.png" width="600">
   
- <image src="https://github.com/adwonghk/CSharpe_Game_Gomoku/blob/master/i1.png" width="600">
+ <image src="https://github.com/adwonghk/CSharpe_Game_Gomoku/blob/master/i3.png" width="600">
